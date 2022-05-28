@@ -22,7 +22,8 @@
 </p> -->
 
 <br />
-<h2> My tech stack 📚 </h2>
+
+<h2>Tech stack 📚 </h2>
 
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,7 +47,10 @@
 
 <br/>
 
-<h2>My popular videos</h2>
+<h2>Job history</h2> 
+<br />
+
+<h2>Project Experience</h2>
 <!-- <table>
   <tbody>
     <tr>
@@ -73,7 +77,7 @@
 <br/>
 <br/>
 
-<h2>My popular courses</h2> 
+<!-- <h2>My popular courses</h2>  -->
 <!-- <table>
   <tbody>
     <tr>
