@@ -25,6 +25,7 @@
 <h2> My tech stack 📚 </h2>
 
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-f0f0f0?style=for-the-badge&logo=Firebase&logoColor=orange)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-d4d9dc?style=for-the-badge&logo=mongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-f0f0f0?style=for-the-badge&logo=Redis)
@@ -34,11 +35,14 @@
 ![Redux](https://img.shields.io/badge/-Redux-ae5da1?style=for-the-badge&logo=redux)
 ![Unity](https://img.shields.io/badge/-UNITY-000000?style=for-the-badge&logo=unity&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-43853d?style=for-the-badge&logo=csharp)
+<img alt=".NET" src ="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
 ![PUN](https://img.shields.io/badge/-PUN-00a0e9?style=for-the-badge&logo=unity&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-d4d9dc?style=for-the-badge&logo=flutter&logoColor=blue)
 ![Dart](https://img.shields.io/badge/-Dart-004986?style=for-the-badge&logo=dart&logoColor=skyblue)
 ![MySql](https://img.shields.io/badge/-MySql-f0f0f0?style=for-the-badge&logo=MySql&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![VisualStudioCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff)
 
 <br/>
 
